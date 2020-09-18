@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Small Chops Factory</title>
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <!-- styles -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header id="home">
+      <nav id="nav">
+        <div class="nav-center">
+          <div class="nav-header">
+            <div class="cart-btn">
+              <span class="nav-icon">
+                <i class="fas fa-cart-plus"></i>
+              </span>
+              <div class="cart-items">0</div>
+            </div>
+            <img src="./logo.svg" alt="logo" class="logo">
+            <button class="nav-toggle">
+              <i class="fas fa-bars"></i>
+            </button>
+          </div>
+          <div class="links-container">
+            <ul class="links">
+              <li>
+                <a href="#home" class="scroll-link">home</a>
+              </li>
+              <li>
+                <a href="#about-us" class="scroll-link"> about us</a>
+              </li>
+              <li>
+                <a href="#menu" class="scroll-link"> Menu</a>
+              </li>
+              <li>
+                <a href="#contact-us" class="scroll-link"> contact us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div class="banner">
+        <div class="container">
+          <h1>small chops factory</h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta fugiat consequatur libero quidem dolor nam veritatis aliquid eveniet iure natus?
+          </p>
+          <a href="#menu" class="scroll-link btn btn-white">explore menu</a>
+        </div>
+      </div>
+    </header>
+    <section id="menu" class="menu section">
+      <div class="title">
+        <h2>our <span>menu</span></h2>
+        <div class="underline"></div>
+      </div>
+      <div class="btn-container">
+        
+      </div>
+      <div class="section-center">
+        
+      </div>
+    </section>
+    <div class="cart-overlay">
+      <div class="cart">
+        <span class="close-cart">
+          <i class="fas fa-window-close"></i>
+        </span>
+        <h2>your cart</h2>
+        <div class="cart-content">
+
+        </div>
+        <div class="cart-footer">
+          <h3>your total: $ <span class="cart-total">0</span></h3>
+          <div class="cart-button">
+            <div class="clear-cart">clear cart</div>
+            <a href="" class="checkout">checkout</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="section">
+      <p>
+        copyright &copy; small chops factory <span id="date"></span>. all right reserved
+      </p>
+    </footer>
+    <a href="#home" class="scroll-link top-link">
+      <i class="fas fa-angle-up"></i>
+    </a>
+    <!-- javascript -->
+    <script src="https://js.stripe.com/v3/"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

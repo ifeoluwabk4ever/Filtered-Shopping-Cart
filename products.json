@@ -1,0 +1,218 @@
+{
+    "items" : [
+        {
+            "sys": {"id": "1"},
+            "fields": {
+                "title": "buttermilk pancakes",
+                "category": "breakfast",
+                "price": 15.99,
+                "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-1.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "diner double",
+                "category": "lunch",
+                "price": 13.99,
+                "desc": "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-2.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "godzilla milkshake",
+                "category": "shakes",
+                "price": 6.99,
+                "desc": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-3.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "country delight",
+                "category": "breakfast",
+                "price": 20.99,
+                "desc": "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut.",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-4.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "title": "egg attack",
+                "category": "lunch",
+                "price": 22.99,
+                "desc": "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up.",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-5.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "title": "oreo dream",
+                "category": "shakes",
+                "price": 18.99,
+                "desc": "Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday.",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-6.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "title": "bacon overflow",
+                "category": "breakfast",
+                "price": 8.99,
+                "desc": "carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird.",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-7.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "american classic",
+                "category": "lunch",
+                "price": 12.99,
+                "desc": "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut.",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-8.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "9"
+            },
+            "fields": {
+                "title": "quarantine buddy",
+                "category": "shakes",
+                "price": 16.99,
+                "desc": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-9.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "10"
+            },
+            "fields": {
+                "title": "bison steak",
+                "category": "dinner",
+                "price": 22.99,
+                "desc": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-10.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "11"
+            },
+            "fields": {
+                "title": "steak dinner",
+                "category": "dinner",
+                "price": 32.99,
+                "desc": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-11.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "12"
+            },
+            "fields": {
+                "title": "small chop",
+                "category": "dinner",
+                "price": 27.99,
+                "desc": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/item-12.jpeg"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
